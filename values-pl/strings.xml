@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first">Drzewo jest niedaleko</string>
+    <string name="second">Trawa jest zielona</string>
+    <string name="third">Lewandowski krolem jest</string>
+    <string name="name_app">STR</string>
+</resources>
